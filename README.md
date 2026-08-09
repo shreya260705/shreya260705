@@ -1,176 +1,367 @@
-# Hi 👋, I'm Shreya
+<!-- ===================== HEADER ===================== -->
 
-### 💻 Computer Science Student | C++ | DSA | Full-Stack Development | DevOps Enthusiast
+<h1 align="center">Hi 👋, I'm Shreya</h1>
 
----
-
-## 🚀 About Me
-
-🎓 I'm currently pursuing **B.Tech in Computer Science Engineering**
-
-💻 I'm passionate about **Data Structures & Algorithms, Full-Stack Development, and DevOps**
-
-🧩 I regularly practice **DSA and problem solving using C++**
-
-🌱 I'm currently learning **MERN Stack, Docker, Jenkins, AWS, CI/CD, and Cloud Technologies**
-
-🔭 I enjoy building **real-world projects** and experimenting with new technologies
-
-⚙️ I have hands-on experience with **Git, GitHub, Docker, Jenkins, CI/CD, and cloud-based workflows**
-
-🎯 My goal is to become a **skilled Software Developer** with strong problem-solving and development skills
-
----
-
-## 🛠️ Languages and Tools
-
-### 💻 Programming Languages
-
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45"/>
-</p>
-
-### 🌐 Frontend Development
-
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="45"/>
-</p>
-
-### ⚙️ Backend & Database
-
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="45"/>
-</p>
-
-### 🚀 DevOps & Cloud
-
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55"/>
-</p>
-
----
-
-## 🚀 Featured Projects
-
-### 🤖 AI Dungeon Master
-
-An interactive AI-powered fantasy adventure application built using **Vanilla JavaScript, HTML, CSS and Vite**.
-
-🔗 [Live Demo](https://ai-dungeon-master-one.vercel.app/)
-
-### 🖌️ Real-Time Collaborative Whiteboard
-
-A collaborative online whiteboard inspired by **Miro and Zoom**, featuring real-time collaboration, rooms, authentication, drawing tools and chat.
-
-**Tech:** MERN Stack • Socket.io • JWT • MongoDB
-
-### 🐳 Self-Healing CI/CD Pipeline
-
-A DevOps project implementing automated **build, testing, Docker image creation, Docker Hub deployment and application deployment using Jenkins**.
-
-**Tech:** Docker • Jenkins • GitHub • CI/CD • Docker Compose
-
-### 🚀 StartUpLift
-
-A platform designed to help **startups and entrepreneurs showcase their ideas, connect with opportunities, and grow their ventures**.
-
-**Tech:** Web Development • Mern Stack
-🔗 [Live Demo](https://startup-lift.vercel.app/)
-
-
-### 🔨 Online Auction System
-
-An online auction platform where users can **list products, place bids, and participate in competitive bidding** through a user-friendly web interface.
-
-**Tech:** Full-Stack Development • JavaScript • HTML • CSS • PHP • Database 
-
----
-
-## 📚 Currently Working On
-
-* 🧩 Data Structures & Algorithms
-* 💻 C++ Problem Solving
-* 🌐 Full-Stack Web Development
-* 🐳 Docker & Containerization
-* 🔄 Jenkins & CI/CD
-* ☁️ AWS & Cloud Technologies
-* 🤖 Exploring AI-powered applications
-
----
-
-## 📊 GitHub Stats
+<h3 align="center">
+  Computer Science Student • Software Developer • Problem Solver
+</h3>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=shreya260705&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreya260705&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=C%2B%2B+%7C+DSA+Enthusiast;Full-Stack+Developer;DevOps+Enthusiast;Problem+Solver;Building+Real-World+Projects;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
-
----
-
-## 🔥 Contribution Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=shreya260705&theme=tokyonight&hide_border=true"/>
+  <img src="https://komarev.com/ghpvc/?username=shreya260705&label=Profile%20Views&color=58A6FF&style=flat" alt="Profile Views"/>
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+<!-- ===================== ABOUT ME ===================== -->
+
+<h2 align="center">🚀 About Me</h2>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=shreya260705&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
+  I'm a Computer Science Engineering student passionate about building
+  <b>real-world software solutions</b> and solving challenging problems.
 </p>
-
----
-
-## 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shreya260705&theme=tokyo-night&hide_border=true"/>
+  💻 C++ &nbsp; • &nbsp;
+  🧩 DSA &nbsp; • &nbsp;
+  🌐 Full-Stack Development &nbsp; • &nbsp;
+  ⚙️ DevOps
 </p>
+
+<br>
+
+<table align="center">
+<tr>
+<td>
+
+🎓 Pursuing **B.Tech in Computer Science Engineering**
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+🧩 Regularly practicing **Data Structures & Algorithms using C++**
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+🌱 Currently learning **MERN Stack, Docker, Jenkins, AWS & CI/CD**
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+🔭 Interested in building **scalable and real-world applications**
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+⚙️ Experienced with **Git, GitHub, Docker, Jenkins & CI/CD workflows**
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+🎯 Goal: Become a **skilled Software Developer & Problem Solver**
+
+</td>
+</tr>
+</table>
+
+<br>
 
 ---
 
-## 🤝 Connect With Me
+<!-- ===================== SKILLS ===================== -->
 
-<p align="left">
+<h2 align="center">🛠️ Languages & Tools</h2>
+
+<h3 align="center">💻 Programming Languages</h3>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="55" title="C++"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55" title="JavaScript"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55" title="HTML5"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55" title="CSS3"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="55" title="PHP"/>
+</p>
+
+<br>
+
+<h3 align="center">🌐 Frontend Development</h3>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55" title="React"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="55" title="Angular"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" width="55" title="Ionic"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="55" title="Bootstrap"/>
+</p>
+
+<br>
+
+<h3 align="center">⚙️ Backend & Database</h3>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="55" title="Node.js"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="55" title="Express.js"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="55" title="MongoDB"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55" title="MySQL"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="55" title="Laravel"/>
+</p>
+
+<br>
+
+<h3 align="center">🚀 DevOps & Cloud</h3>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="55" title="Docker"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="55" title="Jenkins"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" title="Git"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" title="GitHub"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="65" title="AWS"/>
+</p>
+
+<br>
+
+---
+
+<!-- ===================== PROJECTS ===================== -->
+
+<h2 align="center">🚀 Featured Projects</h2>
+
+<br>
+
+<h3>🤖 AI Dungeon Master</h3>
+
+<p>
+An interactive AI-powered fantasy adventure application where users can
+experience dynamic storytelling and gameplay.
+</p>
+
+<p>
+<b>Tech:</b> JavaScript • HTML • CSS • Vite
+</p>
+
+<p>
+🔗 <a href="https://ai-dungeon-master-one.vercel.app/">Live Demo</a>
+</p>
+
+<br>
+<h3>🚀 StartUpLift</h3>
+
+<p>
+A startup-focused platform designed to help entrepreneurs showcase
+their ideas, connect with opportunities and build their ventures.
+</p>
+
+<p>
+<b>Tech:</b> Web Development • Mern Stack  • Socket.io • JWT • Razorpay Integration
+</p>
+<p>
+🔗 <a href="https://startup-lift.vercel.app/">Live Demo</a>
+</p>
+
+<br>
+
+<h3>🖌️ Real-Time Collaborative Whiteboard</h3>
+
+<p>
+A collaborative online whiteboard inspired by platforms like
+<b>Miro and Zoom</b>, featuring real-time collaboration, rooms,
+authentication, drawing tools and chat.
+</p>
+
+<p>
+<b>Tech:</b> MERN • Socket.io • JWT • MongoDB
+</p>
+
+<br>
+
+<h3>🐳 Self-Healing CI/CD Pipeline</h3>
+
+<p>
+A DevOps project implementing an automated pipeline for building,
+testing, containerizing and deploying applications.
+</p>
+
+<p>
+<b>Tech:</b> Docker • Jenkins • GitHub • CI/CD • Docker Compose
+</p>
+
+<br>
+
+<h3>🔨 Online Auction System</h3>
+
+<p>
+An online auction platform where users can list products, place bids
+and participate in competitive online auctions.
+</p>
+
+<p>
+<b>Tech:</b> Full-Stack Development • JavaScript • HTML • CSS • Database • PHP
+</p>
+
+<br>
+
+---
+
+<!-- ===================== CURRENTLY LEARNING ===================== -->
+
+<h2 align="center">📚 Currently Working On</h2>
+
+<p align="center">
+  🧩 Data Structures & Algorithms
+  &nbsp; • &nbsp;
+  💻 C++ Problem Solving
+  &nbsp; • &nbsp;
+  🌐 Full-Stack Development
+</p>
+
+<p align="center">
+  🐳 Docker
+  &nbsp; • &nbsp;
+  🔄 Jenkins & CI/CD
+  &nbsp; • &nbsp;
+  ☁️ AWS
+  &nbsp; • &nbsp;
+  🤖 AI Applications
+</p>
+
+<br>
+
+---
+
+<!-- ===================== GITHUB STATS ===================== -->
+
+<h2 align="center">📊 GitHub Statistics</h2>
+
+<br>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shreya260705&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreya260705&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
+</p>
+
+<br>
+
+---
+
+<!-- ===================== STREAK ===================== -->
+
+<h2 align="center">🔥 GitHub Streak</h2>
+
+<br>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=shreya260705&theme=tokyonight&hide_border=true&border_radius=10" />
+</p>
+
+<br>
+
+---
+
+<!-- ===================== TROPHIES ===================== -->
+
+<h2 align="center">🏆 GitHub Trophies</h2>
+
+<br>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shreya260705&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" />
+</p>
+
+<br>
+
+---
+
+<!-- ===================== CONTRIBUTION GRAPH ===================== -->
+
+<h2 align="center">📈 Contribution Activity</h2>
+
+<br>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shreya260705&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
+<br>
+
+---
+
+<!-- ===================== CONNECT ===================== -->
+
+<h2 align="center">🤝 Connect With Me</h2>
+
+<br>
+
+<p align="center">
 
 <a href="https://github.com/shreya260705">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+
+  
 
 <a href="https://www.linkedin.com/in/shreyatripathi26/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
+  
 
 <a href="https://leetcode.com/u/shreya1725/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 
+  
+
 <a href="mailto:shreyatpahi2607@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </p>
+
+<br>
 
 ---
 
+<!-- ===================== FOOTER ===================== -->
+
 <p align="center">
-✨ <b>Code. Learn. Build. Repeat.</b> ✨
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:238636&height=120&section=footer" />
 </p>
 
+<p align="center">
+  <b>✨ Code • Learn • Build • Solve • Repeat ✨</b>
+</p>
